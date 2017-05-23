@@ -1,0 +1,2 @@
+Error: Improper returned type, expected int, got string: line 6
+Error: Improper returned type, expected int, got string: line 7

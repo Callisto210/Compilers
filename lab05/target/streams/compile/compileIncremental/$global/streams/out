@@ -1,0 +1,53 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set(/home/patryk/kompilatory/lab05/src/main/scala/simplifier/simplifier.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/home/patryk/kompilatory/lab05/src/main/scala/simplifier/simplifier.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/patryk/kompilatory/lab05/src/main/scala/simplifier/simplifier.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/patryk/kompilatory/lab05/src/main/scala/simplifier/simplifier.scala)[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to /home/patryk/kompilatory/lab05/target/scala-2.11/classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.13:component from component compiler for Scala 2.11.2[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.13:component from component compiler for Scala 2.11.2[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 1af4f92, interfacing (CompilerInterface) with Scala compiler version 2.11.2[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-unchecked[0m
+[0m[[0mdebug[0m] [0m	-deprecation[0m
+[0m[[0mdebug[0m] [0m	-encoding[0m
+[0m[[0mdebug[0m] [0m	utf8[0m
+[0m[[0mdebug[0m] [0m	-feature[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/opt/oracle-jdk-bin-1.8.0.112/jre/lib/resources.jar:/opt/oracle-jdk-bin-1.8.0.112/jre/lib/rt.jar:/opt/oracle-jdk-bin-1.8.0.112/jre/lib/sunrsasign.jar:/opt/oracle-jdk-bin-1.8.0.112/jre/lib/jsse.jar:/opt/oracle-jdk-bin-1.8.0.112/jre/lib/jce.jar:/opt/oracle-jdk-bin-1.8.0.112/jre/lib/charsets.jar:/opt/oracle-jdk-bin-1.8.0.112/jre/lib/jfr.jar:/opt/oracle-jdk-bin-1.8.0.112/jre/classes:/home/patryk/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.2.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/patryk/kompilatory/lab05/target/scala-2.11/classes:/home/patryk/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.0.2.jar[0m
+[0m[[31merror[0m] [0m/home/patryk/kompilatory/lab05/src/main/scala/simplifier/simplifier.scala:12: type mismatch;[0m
+[0m[[31merror[0m] [0m found   : AST.Node[0m
+[0m[[31merror[0m] [0m required: String[0m
+[0m[[31merror[0m] [0m	funmap += {"+" -> {(x: Node, y:Node) => x+y}}[0m
+[0m[[31merror[0m] [0m	                                          ^[0m
+[0m[[31merror[0m] [0m/home/patryk/kompilatory/lab05/src/main/scala/simplifier/simplifier.scala:13: value - is not a member of AST.Node[0m
+[0m[[31merror[0m] [0m	funmap += {"-" -> {(x: Node, y:Node) => x-y}} [0m
+[0m[[31merror[0m] [0m	                                         ^[0m
+[0m[[31merror[0m] [0m/home/patryk/kompilatory/lab05/src/main/scala/simplifier/simplifier.scala:14: value * is not a member of AST.Node[0m
+[0m[[31merror[0m] [0m	funmap += {"*" -> {(x: Node, y:Node) => x*y}} [0m
+[0m[[31merror[0m] [0m	                                         ^[0m
+[0m[[31merror[0m] [0m/home/patryk/kompilatory/lab05/src/main/scala/simplifier/simplifier.scala:15: value / is not a member of AST.Node[0m
+[0m[[31merror[0m] [0m	funmap += {"/" -> {(x: Node, y:Node) => x/y}} [0m
+[0m[[31merror[0m] [0m	                                         ^[0m
+[0m[[31merror[0m] [0m/home/patryk/kompilatory/lab05/src/main/scala/simplifier/simplifier.scala:16: value % is not a member of AST.Node[0m
+[0m[[31merror[0m] [0m	funmap += {"%" -> {(x: Node, y:Node) => x%y}} [0m
+[0m[[31merror[0m] [0m	                                         ^[0m
+[0m[[31merror[0m] [0m/home/patryk/kompilatory/lab05/src/main/scala/simplifier/simplifier.scala:17: value ** is not a member of AST.Node[0m
+[0m[[31merror[0m] [0m	funmap += {"**" -> {(x: Node, y:Node) => x**y}} [0m
+[0m[[31merror[0m] [0m	                                          ^[0m
+[0m[[31merror[0m] [0m6 errors found[0m
+[0m[[0mdebug[0m] [0mCompilation failed (CompilerInterface)[0m
+[0m[[31merror[0m] [0m(compile:[31mcompileIncremental[0m) Compilation failed[0m

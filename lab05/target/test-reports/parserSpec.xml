@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuite hostname="celestic" name="parserSpec" tests="20" errors="0" failures="1" time="-0.02">
+                     <properties>
+      <property name="jline.esc.timeout" value="0"/><property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/><property name="sun.boot.library.path" value="/opt/oracle-jdk-bin-1.8.0.112/jre/lib/i386"/><property name="java.vm.version" value="25.112-b15"/><property name="java.vm.vendor" value="Oracle Corporation"/><property name="java.vendor.url" value="http://java.oracle.com/"/><property name="path.separator" value=":"/><property name="java.vm.name" value="Java HotSpot(TM) Client VM"/><property name="file.encoding.pkg" value="sun.io"/><property name="user.country" value="PL"/><property name="sun.java.launcher" value="SUN_STANDARD"/><property name="sun.os.patch.level" value="unknown"/><property name="java.vm.specification.name" value="Java Virtual Machine Specification"/><property name="user.dir" value="/home/patryk/kompilatory/lab05"/><property name="java.runtime.version" value="1.8.0_112-b15"/><property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/><property name="java.endorsed.dirs" value="/opt/oracle-jdk-bin-1.8.0.112/jre/lib/endorsed"/><property name="os.arch" value="i386"/><property name="java.io.tmpdir" value="/tmp"/><property name="line.separator" value="
+"/><property name="java.vm.specification.vendor" value="Oracle Corporation"/><property name="os.name" value="Linux"/><property name="sun.jnu.encoding" value="UTF-8"/><property name="java.library.path" value="/lib:/usr/lib"/><property name="sbt.version" value="0.13.13"/><property name="java.specification.name" value="Java Platform API Specification"/><property name="java.class.version" value="52.0"/><property name="sun.management.compiler" value="HotSpot Client Compiler"/><property name="os.version" value="4.4.21-gentoo-tc4200"/><property name="user.home" value="/home/patryk"/><property name="user.timezone" value="GMT"/><property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/><property name="file.encoding" value="UTF-8"/><property name="java.specification.version" value="1.8"/><property name="java.class.path" value="/usr/share/sbt/lib/sbt-launch.jar"/><property name="user.name" value="patryk"/><property name="jline.shutdownhook" value="false"/><property name="java.vm.specification.version" value="1.8"/><property name="sun.java.command" value="/usr/share/sbt/lib/sbt-launch.jar test"/><property name="java.home" value="/opt/oracle-jdk-bin-1.8.0.112/jre"/><property name="sun.arch.data.model" value="32"/><property name="user.language" value="pl"/><property name="java.specification.vendor" value="Oracle Corporation"/><property name="awt.toolkit" value="sun.awt.X11.XToolkit"/><property name="java.vm.info" value="mixed mode"/><property name="java.version" value="1.8.0_112"/><property name="java.ext.dirs" value="/opt/oracle-jdk-bin-1.8.0.112/jre/lib/ext:/usr/java/packages/lib/ext"/><property name="sun.boot.class.path" value="/opt/oracle-jdk-bin-1.8.0.112/jre/lib/resources.jar:/opt/oracle-jdk-bin-1.8.0.112/jre/lib/rt.jar:/opt/oracle-jdk-bin-1.8.0.112/jre/lib/sunrsasign.jar:/opt/oracle-jdk-bin-1.8.0.112/jre/lib/jsse.jar:/opt/oracle-jdk-bin-1.8.0.112/jre/lib/jce.jar:/opt/oracle-jdk-bin-1.8.0.112/jre/lib/charsets.jar:/opt/oracle-jdk-bin-1.8.0.112/jre/lib/jfr.jar:/opt/oracle-jdk-bin-1.8.0.112/jre/classes"/><property name="java.vendor" value="Oracle Corporation"/><property name="file.separator" value="/"/><property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/><property name="sun.io.unicode.encoding" value="UnicodeLittle"/><property name="sun.cpu.endian" value="little"/><property name="sun.cpu.isalist" value=""/>
+    </properties>
+                     <testcase classname="parserSpec" name="(It is not a test)" time="-0.001">
+                                                 
+                                               </testcase><testcase classname="parserSpec" name="(It is not a test)" time="-0.001">
+                                                 
+                                               </testcase><testcase classname="parserSpec" name="(It is not a test)" time="-0.001">
+                                                 
+                                               </testcase><testcase classname="parserSpec" name="(It is not a test)" time="-0.001">
+                                                 <failure message="'[1.5] parsed: TrueConst()' is not equal to 'TrueConst()'" type="java.lang.Exception">java.lang.Exception: '[1.5] parsed: TrueConst()' is not equal to 'TrueConst()'
+	at parserSpec$$anonfun$1$$anonfun$apply$14.apply(Specs.scala:57)
+	at parserSpec$$anonfun$1$$anonfun$apply$14.apply(Specs.scala:56)
+</failure>
+                                               </testcase><testcase classname="parserSpec" name="(It is not a test)" time="-0.001">
+                                                 
+                                               </testcase><testcase classname="parserSpec" name="(It is not a test)" time="-0.001">
+                                                 
+                                               </testcase><testcase classname="parserSpec" name="(It is not a test)" time="-0.001">
+                                                 
+                                               </testcase><testcase classname="parserSpec" name="(It is not a test)" time="-0.001">
+                                                 
+                                               </testcase><testcase classname="parserSpec" name="(It is not a test)" time="-0.001">
+                                                 
+                                               </testcase><testcase classname="parserSpec" name="(It is not a test)" time="-0.001">
+                                                 
+                                               </testcase><testcase classname="parserSpec" name="(It is not a test)" time="-0.001">
+                                                 
+                                               </testcase><testcase classname="parserSpec" name="(It is not a test)" time="-0.001">
+                                                 
+                                               </testcase><testcase classname="parserSpec" name="(It is not a test)" time="-0.001">
+                                                 
+                                               </testcase><testcase classname="parserSpec" name="(It is not a test)" time="-0.001">
+                                                 
+                                               </testcase><testcase classname="parserSpec" name="(It is not a test)" time="-0.001">
+                                                 
+                                               </testcase><testcase classname="parserSpec" name="(It is not a test)" time="-0.001">
+                                                 
+                                               </testcase><testcase classname="parserSpec" name="(It is not a test)" time="-0.001">
+                                                 
+                                               </testcase><testcase classname="parserSpec" name="(It is not a test)" time="-0.001">
+                                                 
+                                               </testcase><testcase classname="parserSpec" name="(It is not a test)" time="-0.001">
+                                                 
+                                               </testcase><testcase classname="parserSpec" name="(It is not a test)" time="-0.001">
+                                                 
+                                               </testcase>
+                     <system-out></system-out>
+                     <system-err></system-err>
+                   </testsuite>

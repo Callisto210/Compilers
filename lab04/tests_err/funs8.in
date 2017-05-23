@@ -1,0 +1,28 @@
+
+int a = 0, b = 0, c = 0;
+
+int bad1(int a, int a) {
+    int c = 0;
+
+    while( a != 0 ) {
+        c = a;
+        a = b % a;
+        b = c;
+    }
+    return b;
+}
+
+int bad2(int a, int b) {
+    int a = 0;
+
+    while( a != 0 ) {
+        c = a;
+        a = b % a;
+        b = c;
+    }
+    return b;
+}
+
+print bad1(125,100);
+print bad2(125,100);
+

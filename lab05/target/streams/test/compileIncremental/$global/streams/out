@@ -1,0 +1,171 @@
+[0m[[0mdebug[0m] [0m[naha] The AST.Variable source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	*, <=, %, <, >=, -, **, ==, +, !=, /, >.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) AST.Variable: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) AST.Variable.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/patryk/kompilatory/lab05/src/test/scala/Specs.scala: Set(+)[0m
+[0m[[0mdebug[0m] [0m[naha] The AST.IntNum source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	*, <=, %, <, >=, -, **, ==, +, !=, /, >.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) AST.IntNum: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) AST.IntNum.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/patryk/kompilatory/lab05/src/test/scala/Specs.scala: Set(+)[0m
+[0m[[0mdebug[0m] [0m[naha] The AST.BinExpr source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	*, <=, %, <, >=, -, **, ==, +, !=, /, >.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) AST.BinExpr: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) AST.BinExpr.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/patryk/kompilatory/lab05/src/test/scala/Specs.scala: Set(+)[0m
+[0m[[0mdebug[0m] [0m[naha] The AST.IntNum$ source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	*, <=, %, <, >=, -, **, ==, +, !=, /, >.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) AST.IntNum$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) AST.IntNum$.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/patryk/kompilatory/lab05/src/test/scala/Specs.scala: Set(+)[0m
+[0m[[0mdebug[0m] [0m[naha] The AST.NodeList source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	*, <=, %, <, >=, -, **, ==, +, !=, /, >.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) AST.NodeList: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) AST.NodeList.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/patryk/kompilatory/lab05/src/test/scala/Specs.scala: Set(+)[0m
+[0m[[0mdebug[0m] [0m[naha] The AST.TrueConst source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	*, <=, %, <, >=, -, **, ==, +, !=, /, >.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) AST.TrueConst: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) AST.TrueConst.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/patryk/kompilatory/lab05/src/test/scala/Specs.scala: Set(+)[0m
+[0m[[0mdebug[0m] [0m[naha] The AST.FalseConst$ source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	*, <=, %, <, >=, -, **, ==, +, !=, /, >.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) AST.FalseConst$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) AST.FalseConst$.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/patryk/kompilatory/lab05/src/test/scala/Specs.scala: Set(+)[0m
+[0m[[0mdebug[0m] [0m[naha] The AST.FunCall$ source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	*, <=, %, <, >=, -, **, ==, +, !=, /, >.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) AST.FunCall$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) AST.FunCall$.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/patryk/kompilatory/lab05/src/test/scala/Specs.scala: Set(+)[0m
+[0m[[0mdebug[0m] [0m[naha] The AST.Variable$ source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	*, <=, %, <, >=, -, **, ==, +, !=, /, >.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) AST.Variable$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) AST.Variable$.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/patryk/kompilatory/lab05/src/test/scala/Specs.scala: Set(+)[0m
+[0m[[0mdebug[0m] [0m[naha] The AST.NodeList$ source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	*, <=, %, <, >=, -, **, ==, +, !=, /, >.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) AST.NodeList$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) AST.NodeList$.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/patryk/kompilatory/lab05/src/test/scala/Specs.scala: Set(+)[0m
+[0m[[0mdebug[0m] [0m[naha] The AST.Node source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	*, <=, %, <, >=, -, **, ==, +, !=, /, >.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) AST.Node: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) AST.Node.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/patryk/kompilatory/lab05/src/test/scala/Specs.scala: Set(+)[0m
+[0m[[0mdebug[0m] [0m[naha] The AST.FunCall source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	*, <=, %, <, >=, -, **, ==, +, !=, /, >.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) AST.FunCall: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) AST.FunCall.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/patryk/kompilatory/lab05/src/test/scala/Specs.scala: Set(+)[0m
+[0m[[0mdebug[0m] [0m[naha] The AST.FalseConst source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	*, <=, %, <, >=, -, **, ==, +, !=, /, >.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) AST.FalseConst: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) AST.FalseConst.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/patryk/kompilatory/lab05/src/test/scala/Specs.scala: Set(+)[0m
+[0m[[0mdebug[0m] [0m[naha] The AST.Unary source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	*, <=, %, <, >=, -, **, ==, +, !=, /, >.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) AST.Unary: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) AST.Unary.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/patryk/kompilatory/lab05/src/test/scala/Specs.scala: Set(+)[0m
+[0m[[0mdebug[0m] [0m[naha] The AST.GetAttr$ source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	*, <=, %, <, >=, -, **, ==, +, !=, /, >.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) AST.GetAttr$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) AST.GetAttr$.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/patryk/kompilatory/lab05/src/test/scala/Specs.scala: Set(+)[0m
+[0m[[0mdebug[0m] [0m[naha] The AST.Unary$ source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	*, <=, %, <, >=, -, **, ==, +, !=, /, >.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) AST.Unary$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) AST.Unary$.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/patryk/kompilatory/lab05/src/test/scala/Specs.scala: Set(+)[0m
+[0m[[0mdebug[0m] [0m[naha] The AST.GetAttr source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	*, <=, %, <, >=, -, **, ==, +, !=, /, >.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) AST.GetAttr: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) AST.GetAttr.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/patryk/kompilatory/lab05/src/test/scala/Specs.scala: Set(+)[0m
+[0m[[0mdebug[0m] [0m[naha] The AST.TrueConst$ source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	*, <=, %, <, >=, -, **, ==, +, !=, /, >.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) AST.TrueConst$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) AST.TrueConst$.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/patryk/kompilatory/lab05/src/test/scala/Specs.scala: Set(+)[0m
+[0m[[0mdebug[0m] [0m[naha] The AST.BinExpr$ source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	*, <=, %, <, >=, -, **, ==, +, !=, /, >.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) AST.BinExpr$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) AST.BinExpr$.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /home/patryk/kompilatory/lab05/src/test/scala/Specs.scala: Set(+)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set(NamesChange(AST.Variable,ModifiedNames(regularNames = *, <=, %, <, >=, -, **, ==, +, !=, /, >, implicitNames = )), NamesChange(AST.IntNum,ModifiedNames(regularNames = *, <=, %, <, >=, -, **, ==, +, !=, /, >, implicitNames = )), NamesChange(AST.BinExpr,ModifiedNames(regularNames = *, <=, %, <, >=, -, **, ==, +, !=, /, >, implicitNames = )), NamesChange(AST.IntNum$,ModifiedNames(regularNames = *, <=, %, <, >=, -, **, ==, +, !=, /, >, implicitNames = )), NamesChange(AST.NodeList,ModifiedNames(regularNames = *, <=, %, <, >=, -, **, ==, +, !=, /, >, implicitNames = )), NamesChange(AST.TrueConst,ModifiedNames(regularNames = *, <=, %, <, >=, -, **, ==, +, !=, /, >, implicitNames = )), NamesChange(AST.FalseConst$,ModifiedNames(regularNames = *, <=, %, <, >=, -, **, ==, +, !=, /, >, implicitNames = )), NamesChange(AST.FunCall$,ModifiedNames(regularNames = *, <=, %, <, >=, -, **, ==, +, !=, /, >, implicitNames = )), NamesChange(AST.Variable$,ModifiedNames(regularNames = *, <=, %, <, >=, -, **, ==, +, !=, /, >, implicitNames = )), NamesChange(AST.NodeList$,ModifiedNames(regularNames = *, <=, %, <, >=, -, **, ==, +, !=, /, >, implicitNames = )), NamesChange(AST.Node,ModifiedNames(regularNames = *, <=, %, <, >=, -, **, ==, +, !=, /, >, implicitNames = )), NamesChange(AST.FunCall,ModifiedNames(regularNames = *, <=, %, <, >=, -, **, ==, +, !=, /, >, implicitNames = )), NamesChange(AST.FalseConst,ModifiedNames(regularNames = *, <=, %, <, >=, -, **, ==, +, !=, /, >, implicitNames = )), NamesChange(AST.Unary,ModifiedNames(regularNames = *, <=, %, <, >=, -, **, ==, +, !=, /, >, implicitNames = )), NamesChange(AST.GetAttr$,ModifiedNames(regularNames = *, <=, %, <, >=, -, **, ==, +, !=, /, >, implicitNames = )), NamesChange(AST.Unary$,ModifiedNames(regularNames = *, <=, %, <, >=, -, **, ==, +, !=, /, >, implicitNames = )), NamesChange(AST.GetAttr,ModifiedNames(regularNames = *, <=, %, <, >=, -, **, ==, +, !=, /, >, implicitNames = )), NamesChange(AST.TrueConst$,ModifiedNames(regularNames = *, <=, %, <, >=, -, **, ==, +, !=, /, >, implicitNames = )), NamesChange(AST.BinExpr$,ModifiedNames(regularNames = *, <=, %, <, >=, -, **, ==, +, !=, /, >, implicitNames = )))[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set(/home/patryk/kompilatory/lab05/src/test/scala/Specs.scala)[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/patryk/kompilatory/lab05/src/test/scala/Specs.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/patryk/kompilatory/lab05/src/test/scala/Specs.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to /home/patryk/kompilatory/lab05/target/scala-2.11/test-classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.13:component from component compiler for Scala 2.11.2[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.13:component from component compiler for Scala 2.11.2[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 1f8da3d, interfacing (CompilerInterface) with Scala compiler version 2.11.2[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-unchecked[0m
+[0m[[0mdebug[0m] [0m	-deprecation[0m
+[0m[[0mdebug[0m] [0m	-encoding[0m
+[0m[[0mdebug[0m] [0m	utf8[0m
+[0m[[0mdebug[0m] [0m	-feature[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/opt/oracle-jdk-bin-1.8.0.112/jre/lib/resources.jar:/opt/oracle-jdk-bin-1.8.0.112/jre/lib/rt.jar:/opt/oracle-jdk-bin-1.8.0.112/jre/lib/sunrsasign.jar:/opt/oracle-jdk-bin-1.8.0.112/jre/lib/jsse.jar:/opt/oracle-jdk-bin-1.8.0.112/jre/lib/jce.jar:/opt/oracle-jdk-bin-1.8.0.112/jre/lib/charsets.jar:/opt/oracle-jdk-bin-1.8.0.112/jre/lib/jfr.jar:/opt/oracle-jdk-bin-1.8.0.112/jre/classes:/home/patryk/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.2.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/patryk/kompilatory/lab05/target/scala-2.11/test-classes:/home/patryk/kompilatory/lab05/target/scala-2.11/classes:/home/patryk/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.0.2.jar:/home/patryk/.ivy2/cache/org.specs2/specs2-core_2.11/jars/specs2-core_2.11-2.4.14.jar:/home/patryk/.ivy2/cache/org.specs2/specs2-matcher_2.11/jars/specs2-matcher_2.11-2.4.14.jar:/home/patryk/.ivy2/cache/org.specs2/specs2-common_2.11/jars/specs2-common_2.11-2.4.14.jar:/home/patryk/.ivy2/cache/org.scalaz/scalaz-core_2.11/bundles/scalaz-core_2.11-7.1.0.jar:/home/patryk/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.2.jar:/home/patryk/.ivy2/cache/org.scalaz/scalaz-concurrent_2.11/bundles/scalaz-concurrent_2.11-7.1.0.jar:/home/patryk/.ivy2/cache/org.scalaz/scalaz-effect_2.11/bundles/scalaz-effect_2.11-7.1.0.jar:/home/patryk/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.2.jar:/home/patryk/.ivy2/cache/org.scalatest/scalatest_2.11/bundles/scalatest_2.11-2.2.1.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 5.85647282 s[0m
+[0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Previously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m

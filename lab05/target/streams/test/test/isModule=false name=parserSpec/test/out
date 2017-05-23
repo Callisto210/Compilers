@@ -1,0 +1,37 @@
+[0m[[0minfo[0m] [0mparserSpec[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37mparser should[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m recognize some kind of stuff that we had to change[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m fail on incorrect input[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m recognize elif branches in if-else stmts[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[33mx[0m parse expressions[0m[0m
+[0m[[31merror[0m] [0m   '[1.5] parsed: TrueConst()' is not equal to 'TrueConst()' (Specs.scala:57)[0m
+[0m[[0minfo[0m] [0m [0m
+[0m[[31merror[0m] [0mExpected: TrueConst()[0m
+[0m[[0minfo[0m] [0m [0m
+[0m[[31merror[0m] [0mActual:   [1.5] parsed: TrueConst()[0m
+[0m[[0minfo[0m] [0m [0m
+[0m[[0minfo[0m] [0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37msimplifier should[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m recognize tuples[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m recognize power laws[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m evaluate constants[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m simplify division[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m simplify expressions[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m understand commutativity[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m understand distributive property of multiplication[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m cancel double unary ops[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m get rid of not before comparisons[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m remove duplicate keys[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m concatenate lists[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m remove no effect instructions[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m remove dead assignments[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m simplify if-else instruction with known condition[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m simplify if-else expression with known condition[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m remove while loop with False condition[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0mTotal for specification parserSpec[0m
+[0m[[0minfo[0m] [0m[36mFinished in 46 ms[0m[0m
+[0m[[0minfo[0m] [0m[36m[0m[36m20 examples, 1 failure, 0 error[0m[0m
+[0m[[0minfo[0m] [0m [0m
